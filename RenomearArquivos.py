@@ -1,4 +1,4 @@
-import os
+mniimport os
 
 def renomear_arquivos(caminho_pasta, prefixo=None, numerar=False):
     """
@@ -56,7 +56,7 @@ def renomear_arquivos(caminho_pasta, prefixo=None, numerar=False):
 # Exemplo de uso
 if __name__ == "__main__":
     # Defina o caminho da pasta onde estão os arquivos
-    pasta = "c:/Users/Eduardo/OneDrive/Desktop/GitHub/Automação de Tarefas - Renomear Arquivos"  # Substitua pelo caminho real
+    pasta = "c:/Users/Eduardo/OneDrive/Desktop/GitHub/Automação de Tarefas - Renomear Arquivos"  # Substitua pelo caminho da sua pasta
     
     # Opções de renomeação
     renomear_arquivos(
