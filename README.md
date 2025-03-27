@@ -16,4 +16,4 @@ Este é um script em Python que permite renomear arquivos em uma pasta de forma 
 ## Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/renomear-arquivos.git
+   git clone https://github.com/EduardoLatance/Python.git
